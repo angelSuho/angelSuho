@@ -1,7 +1,7 @@
 ### Hi I'm Sooho Lee 👋
 <hr>
 
-[⭐Want Know Me](https://resume.sooho.info/)
+[⭐Want To Know Me](https://resume.sooho.info/)
 [🌠Portfolio](https://portfolio.sooho.info/)
 
 <br/>
