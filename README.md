@@ -1,6 +1,17 @@
-### Hi there 👋
+### Hi I'm Sooho Lee 👋
+<hr>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FangelSooho%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[⭐Want Know Me](https://resume.sooho.info/)
+[🌠Portfolio](https://portfolio.sooho.info/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelSooho&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelSooho&layout=compact&theme=merko)
+<br/>
+
+<p><img align="left" src=https://github-readme-stats.vercel.app/api?username=angelSooho&show_icons=true&theme=merko)/></p>
+<p><img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=angelSooho&layout=compact&theme=merko)/></p>
+<br/><br/>
+
+### Interesting 👇
+
+
+
+
