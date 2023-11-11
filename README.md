@@ -7,8 +7,10 @@
 <p><img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=angelSooho&layout=compact&theme=merko)/></p>
 <br/>
 
-### Interesting 👇
+### Currently Interesting 👇
 
-
+- Test
+- Redis
+- 
 
 
