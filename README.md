@@ -11,7 +11,6 @@
 
 - Test
 - Redis
-- Kafka
-- 
+- Spring Advanced
 
 <br/>
