@@ -10,7 +10,7 @@
 ### Currently Interesting 👇
 
 - Test
-- Java / Kotlin
+- Java / Kotlin Advanced
 - Spring Advanced
 - 
 
