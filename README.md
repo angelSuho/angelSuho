@@ -1,4 +1,4 @@
-## Hi I'm Sooho Lee 👋
+## Hi I'm Suho Lee 👋
 
 [⭐Want To Know Me](https://resume.sooho.info/)
 [🌠Portfolio](https://portfolio.sooho.info/)
