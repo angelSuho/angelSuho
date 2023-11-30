@@ -10,7 +10,7 @@
 ### Currently Interesting 👇
 
 - Test
-- Redis
+- Java / Kotlin
 - Spring Advanced
 
 <br/>
