@@ -9,9 +9,9 @@
 
 ### Currently Interesting 👇
 
-- Test
-- Java / Kotlin Advanced
+- Java Advanced, Kotlin
 - Spring Advanced
 - Domain Driven Design
+- 
 
 <br/>
