@@ -12,6 +12,6 @@
 - Test
 - Java / Kotlin Advanced
 - Spring Advanced
-- 
+- Domain Driven Design
 
 <br/>
