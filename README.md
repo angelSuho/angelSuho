@@ -9,7 +9,7 @@
 
 ### Currently Interesting 👇
 
-- Java Advanced, Kotlin
+- Java Advanced, Kotlin Basic
 - Spring Advanced
 - Domain Driven Design
 - 
