@@ -11,7 +11,7 @@
 
 - Java Advanced, Kotlin Basic
 - Spring Advanced
-- Domain Driven Design
+- JSP
 - 
 
 <br/>
