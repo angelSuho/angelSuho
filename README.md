@@ -9,7 +9,7 @@
 
 ### Currently Interesting 👇
 
-- Java Advanced, Kotlin Basic
+- Java Advanced
 - Spring Advanced
 - JSP
 - 
