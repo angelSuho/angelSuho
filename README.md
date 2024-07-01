@@ -11,6 +11,6 @@
 
 - Java Advanced
 - Spring Advanced
-- JSP
+- Data Modeling
 
 <br/>
