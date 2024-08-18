@@ -11,5 +11,6 @@
 
 - Java Advanced
 - Spring Advanced
+- DB Tuning & SQL
 
 <br/>
